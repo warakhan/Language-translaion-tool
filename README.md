@@ -25,10 +25,6 @@ pip install googletrans==4.0.0-rc1
 
 Usage
 
-Clone the repository:
-
-git clone https://github.com/warakhan/language-translation-tool.git
-
 Navigate to the project directory:
 
 cd language-translation-tool
