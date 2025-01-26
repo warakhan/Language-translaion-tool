@@ -27,7 +27,7 @@ Usage
 
 Clone the repository:
 
-git clone https://github.com/yourusername/language-translation-tool.git
+git clone https://github.com/warakhan/language-translation-tool.git
 
 Navigate to the project directory:
 
