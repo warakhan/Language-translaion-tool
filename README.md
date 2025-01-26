@@ -1,6 +1,7 @@
+## Language translation tool
 This is a simple Python-based language translation tool created using the googletrans library. It allows users to translate text from one language to another using the power of Google Translate API.
 
-Features
+# Features
 
 Translate text between multiple languages.
 
@@ -8,13 +9,13 @@ Specify the source and target languages.
 
 Easy-to-use command-line interface.
 
-Requirements
+# Requirements
 
 Python 3.6+
 
 googletrans library (version 4.0.0-rc1)
 
-Installation
+# Installation
 
 Install Python:
 Make sure Python is installed on your system. You can download it from python.org.
@@ -23,19 +24,19 @@ Install the required library:
 
 pip install googletrans==4.0.0-rc1
 
-Usage
+# Usage
 
 Navigate to the project directory:
 
 cd language-translation-tool
 
-Run the script:
+# Run the script:
 
 python translator.py
 
 Enter the text to translate, source language code, and target language code when prompted.
 
-Example:
+# Example:
 
 Input text: Hello, how are you?
 
@@ -45,7 +46,7 @@ Target language code: es (Spanish)
 
 Output: Hola, ¿cómo estás?
 
-Supported Languages
+# Supported Languages
 
 The tool supports most language codes. Some common ones include:
 
